@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="443b148d-e427-48de-bd57-4726354efe7d" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1Z4FCLXeIuikhzj7YTjsOsGgWVe" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.0" />
+    <property name="project.structure.side.proportion" value="0.0" />
+  </component>
+  <component name="RunManager" selected="TestNG.SpiceJet.testCalendarDependency">
+    <configuration name="FoodPanda.testExplicitWaitClassDemo" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise3" />
+      <option name="MAIN_CLASS_NAME" value="practise3.FoodPanda" />
+      <option name="METHOD_NAME" value="testExplicitWaitClassDemo" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeMyTrip.makeMyTripTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise1" />
+      <option name="MAIN_CLASS_NAME" value="practise1.MakeMyTrip" />
+      <option name="METHOD_NAME" value="makeMyTripTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MakeMyTrip.makeMyTripTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise1" />
+      <option name="MAIN_CLASS_NAME" value="practise1.MakeMyTrip" />
+      <option name="METHOD_NAME" value="makeMyTripTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiceJet.checkBoxesTest" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise1" />
+      <option name="MAIN_CLASS_NAME" value="practise1.SpiceJet" />
+      <option name="METHOD_NAME" value="checkBoxesTest" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiceJet.testCalendarDependency" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise1" />
+      <option name="MAIN_CLASS_NAME" value="practise1.SpiceJet" />
+      <option name="METHOD_NAME" value="testCalendarDependency" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpiceJet.testSpiceJetDynamicDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise1.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise1" />
+      <option name="MAIN_CLASS_NAME" value="practise1.SpiceJet" />
+      <option name="METHOD_NAME" value="testSpiceJetDynamicDropdown" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.SpiceJet.testCalendarDependency" />
+        <item itemvalue="TestNG.SpiceJet.checkBoxesTest" />
+        <item itemvalue="TestNG.FoodPanda.testExplicitWaitClassDemo" />
+        <item itemvalue="TestNG.MakeMyTrip.makeMyTripTest (4)" />
+        <item itemvalue="TestNG.MakeMyTrip.makeMyTripTest (3)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="443b148d-e427-48de-bd57-4726354efe7d" name="Default Changelist" comment="" />
+      <created>1584090330950</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584090330950</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="233" y="2" key="#Project_Structure" timestamp="1584097328127">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1584097328127" />
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585138966486">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1585138966486" />
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1584542166422">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser/0.0.1280.680@0.0.1280.680" timestamp="1584542166422" />
+    <state x="375" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1585136165521">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="375" y="219" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.0.1280.680@0.0.1280.680" timestamp="1585136165521" />
+    <state width="1237" height="290" key="GridCell.Tab.0.bottom" timestamp="1585150018694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="290" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
+    <state width="1237" height="290" key="GridCell.Tab.0.center" timestamp="1585150018694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="290" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
+    <state width="1237" height="290" key="GridCell.Tab.0.left" timestamp="1585150018694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="290" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
+    <state width="1237" height="290" key="GridCell.Tab.0.right" timestamp="1585150018694">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="1237" height="290" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
+    <state width="395" height="144" key="javadoc.popup.new" timestamp="1585149818599">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state width="395" height="144" key="javadoc.popup.new/0.0.1280.680@0.0.1280.680" timestamp="1585149818599" />
+  </component>
+</project>

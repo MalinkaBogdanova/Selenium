@@ -4,11 +4,16 @@ import org.openqa.selenium.By;
 import org.openqa.selenium.WebDriver;
 import org.openqa.selenium.WebElement;
 import org.openqa.selenium.firefox.FirefoxDriver;
+import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
 
+import java.util.Arrays;
 import java.util.List;
 import java.util.concurrent.TimeUnit;
+
+import static org.testng.Assert.assertEquals;
+import static org.testng.Assert.assertTrue;
 
 public class Example2CartTest {
     WebDriver driver;
@@ -23,32 +28,42 @@ public class Example2CartTest {
 
     @Test
     public void particularItemsShopping() {
-        String[] itemsAccSpec= {"Cucumber","Brocolli","Beetroot"};
+        //declare as array
+      String[] itemsNeeded = {"Cucumber","Brocolli","Beetroot"};
+             // String itemsNeeded = "Cucumber";
+        List<WebElement> products = driver.findElements(By.cssSelector("h4.product-name"));
 
-        List<WebElement> itemsFound = driver.findElements(By.cssSelector("h4.product-name"));
+        for (int i = 0; i < products.size(); i++) {
 
-        for (int i = 0; i < itemsFound.size(); i++) {
-            String text = itemsFound.get(i).getText();
-            if(itemsFound.contains("Brocolli")){
-                System.out.println("Test passed");
+            String[] name = products.get(i).getText().split("-");//split the name where the "- " is
+            String trimmedName = name[0].trim();// remove the empty space from the first part
+//            if(name.contains("Cucumber")){
+//               //go and click on it to add to cart
+//                driver.findElements(By.xpath("//button[contains(text(),'ADD TO CART')]")).get(i).click();
+                     //break;
+            //However I want multiple items to add
+            List<String> itemsNeededList = Arrays.asList(itemsNeeded);
+            int j=0;
+            if(itemsNeededList.contains(trimmedName)){
+                j++;
+                driver.findElements(By.xpath("//button[contains(text(),'ADD TO CART')]")).get(i).click();
+                if(j==3){
+                    break;
+                }
+
             }
 
 
-
-            //it appears in that mode: !!! We want just Banana without "-"
-                // Banana - 1 Kg
-                //Grapes - 1 Kg
-
-
-
-
-
-
-
+        }
+        assertTrue(driver.findElement(By.cssSelector("div.cart-info")).getText().contains("3"));
         }
 
-
+    @AfterMethod
+    public void tearDown() {
+        driver.quit();
     }
-
-
 }
+
+
+
+

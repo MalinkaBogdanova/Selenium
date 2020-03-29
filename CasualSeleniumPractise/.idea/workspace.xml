@@ -39,7 +39,43 @@
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
   </component>
-  <component name="RunManager" selected="TestNG.SpiceJet.testCalendarDependency">
+  <component name="RunManager" selected="TestNG.Example2CartTest.particularItemsShopping (1)">
+    <configuration name="Example2CartTest.particularItemsShopping (1)" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise2" />
+      <option name="MAIN_CLASS_NAME" value="practise2.Example2CartTest" />
+      <option name="METHOD_NAME" value="particularItemsShopping" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Example2CartTest.particularItemsShopping" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="MarchSelenium2020" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="practise2.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="practise2" />
+      <option name="MAIN_CLASS_NAME" value="practise2.Example2CartTest" />
+      <option name="METHOD_NAME" value="particularItemsShopping" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="FoodPanda.testExplicitWaitClassDemo" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="MarchSelenium2020" />
       <extension name="coverage">
@@ -51,42 +87,6 @@
       <option name="PACKAGE_NAME" value="practise3" />
       <option name="MAIN_CLASS_NAME" value="practise3.FoodPanda" />
       <option name="METHOD_NAME" value="testExplicitWaitClassDemo" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MakeMyTrip.makeMyTripTest (3)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MarchSelenium2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practise1" />
-      <option name="MAIN_CLASS_NAME" value="practise1.MakeMyTrip" />
-      <option name="METHOD_NAME" value="makeMyTripTest" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="MakeMyTrip.makeMyTripTest (4)" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MarchSelenium2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practise1" />
-      <option name="MAIN_CLASS_NAME" value="practise1.MakeMyTrip" />
-      <option name="METHOD_NAME" value="makeMyTripTest" />
       <option name="TEST_OBJECT" value="METHOD" />
       <properties />
       <listeners />
@@ -130,31 +130,13 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SpiceJet.testSpiceJetDynamicDropdown" type="TestNG" temporary="true" nameIsGenerated="true">
-      <module name="MarchSelenium2020" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="practise1.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="PACKAGE_NAME" value="practise1" />
-      <option name="MAIN_CLASS_NAME" value="practise1.SpiceJet" />
-      <option name="METHOD_NAME" value="testSpiceJetDynamicDropdown" />
-      <option name="TEST_OBJECT" value="METHOD" />
-      <properties />
-      <listeners />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.Example2CartTest.particularItemsShopping (1)" />
+        <item itemvalue="TestNG.Example2CartTest.particularItemsShopping" />
         <item itemvalue="TestNG.SpiceJet.testCalendarDependency" />
         <item itemvalue="TestNG.SpiceJet.checkBoxesTest" />
         <item itemvalue="TestNG.FoodPanda.testExplicitWaitClassDemo" />
-        <item itemvalue="TestNG.MakeMyTrip.makeMyTripTest (4)" />
-        <item itemvalue="TestNG.MakeMyTrip.makeMyTripTest (3)" />
       </list>
     </recent_temporary>
   </component>
@@ -176,10 +158,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="233" y="2" key="#Project_Structure/0.0.1280.680@0.0.1280.680" timestamp="1584097328127" />
-    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585138966486">
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog" timestamp="1585320354149">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1585138966486" />
+    <state x="100" y="100" width="1080" height="480" key="#com.intellij.execution.junit2.states.ComparisonFailureState$DiffDialog/0.0.1280.680@0.0.1280.680" timestamp="1585320354149" />
     <state x="446" y="59" key="#com.intellij.ide.util.MemberChooser" timestamp="1584542166422">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -192,25 +174,25 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="421" y="85" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1585229793143" />
-    <state width="1237" height="290" key="GridCell.Tab.0.bottom" timestamp="1585150018694">
+    <state width="1222" height="42" key="GridCell.Tab.0.bottom" timestamp="1585320722558">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="290" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
-    <state width="1237" height="290" key="GridCell.Tab.0.center" timestamp="1585150018694">
+    <state width="1222" height="42" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1585320722558" />
+    <state width="1222" height="42" key="GridCell.Tab.0.center" timestamp="1585320722558">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="290" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
-    <state width="1237" height="290" key="GridCell.Tab.0.left" timestamp="1585150018694">
+    <state width="1222" height="42" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1585320722558" />
+    <state width="1222" height="42" key="GridCell.Tab.0.left" timestamp="1585320722558">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="290" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
-    <state width="1237" height="290" key="GridCell.Tab.0.right" timestamp="1585150018694">
+    <state width="1222" height="42" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1585320722558" />
+    <state width="1222" height="42" key="GridCell.Tab.0.right" timestamp="1585320722558">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="1237" height="290" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585150018694" />
-    <state width="395" height="144" key="javadoc.popup.new" timestamp="1585149818599">
+    <state width="1222" height="42" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1585320722558" />
+    <state width="395" height="144" key="javadoc.popup.new" timestamp="1585320718604">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="395" height="144" key="javadoc.popup.new/0.0.1280.680@0.0.1280.680" timestamp="1585149818599" />
+    <state width="395" height="144" key="javadoc.popup.new/0.0.1280.680@0.0.1280.680" timestamp="1585320718604" />
   </component>
 </project>

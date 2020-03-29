@@ -127,30 +127,30 @@ public class SpiceJet {
         assertTrue(checkboxes.size()==6);
     }
 
-    @Test
-    public void testCalendarDependency() {
-        //ctl00_mainContent_rbtnl_Trip_1 //
-        // .ui-state-default.ui-state-active //return date
-        //.ui-state-default.ui-state-highlight.ui-state-active//depart date
-        driver.findElement(By.id("ctl00_mainContent_rbtnl_Trip_1")).click();//round trip button should be enabled
-
-        driver.findElement(By.cssSelector(".ui-state-default.ui-state-highlight.ui-state-active")).click();
-        if(driver.findElement(By.id("Div1")).getAttribute("style").contains("0.5"))
-
-        {
-
-            System.out.println("its disabled");
-
-            Assert.assertTrue(true);
-
-        }
-
-        else
-
-        {Assert.assertTrue(false);
-
-        }
-    }
+//    @Test
+//    public void testCalendarDependency() {
+//        //ctl00_mainContent_rbtnl_Trip_1 //
+//        // .ui-state-default.ui-state-active //return date
+//        //.ui-state-default.ui-state-highlight.ui-state-active//depart date
+//        driver.findElement(By.id("ctl00_mainContent_rbtnl_Trip_1")).click();//round trip button should be enabled
+//
+//        driver.findElement(By.cssSelector(".ui-state-default.ui-state-highlight.ui-state-active")).click();
+//        if(driver.findElement(By.id("Div1")).getAttribute("style").contains("0.5"))
+//
+//        {
+//
+//            System.out.println("its disabled");
+//
+//            Assert.assertTrue(true);
+//
+//        }
+//
+//        else
+//
+//        {Assert.assertTrue(false);
+//
+//        }
+//    }
     //
 
 
